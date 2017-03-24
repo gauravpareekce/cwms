@@ -1,5 +1,5 @@
 # cwms
-Sample project for centralized workflow management
+Sample spring boot project for centralized workflow management
 
 ![cwms-component](https://cloud.githubusercontent.com/assets/22973266/19588636/be1e4430-9784-11e6-8662-83727d2b3f0e.jpg)
 ![cwms-deployment](https://cloud.githubusercontent.com/assets/22973266/19588634/be1af0f0-9784-11e6-8fdf-0c63742136d3.jpg)
